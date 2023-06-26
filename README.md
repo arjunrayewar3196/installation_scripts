@@ -1,3 +1,6 @@
+jrogg installation
+https://medium.com/@raguyazhin/step-by-step-guide-to-install-jfrog-artifactory-on-amazon-linux-6b832dd8097b
+
 ## start TeamCity server as docker container
     docker run \
     -v team_city_data:/data/teamcity_server/datadir \
